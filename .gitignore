@@ -1,0 +1,34 @@
+### Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+### Environment / secrets
+.env
+.env.*
+!.env.example
+
+### Logs
+logs/
+*.log
+
+### Coverage / test output
+coverage/
+.nyc_output/
+
+### Build output (common)
+dist/
+build/
+
+### Runtime data
+pids/
+*.pid
+*.pid.lock
+
+### OS / editor
+.DS_Store
+.vscode/
+.idea/
+
