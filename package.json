@@ -10,6 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "argon": "^2.0.21",
+    "bcrypt": "^6.0.0",
     "cookie-parser": "^1.4.7",
     "crypto": "^1.0.1",
     "dotenv": "^17.3.1",
